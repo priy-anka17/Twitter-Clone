@@ -8,4 +8,4 @@ Steps To Be Followed:
 5. Go to Import of the newly created file.
 6. Import Database from Database file present with the repository.
 7. Now you can access it using localhost followed by your file name.
- ***Twitter Clone***
+ **Twitter Clone**
